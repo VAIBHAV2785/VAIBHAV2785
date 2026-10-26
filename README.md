@@ -1,4 +1,4 @@
-# Hi, I'm Vaibhav Priyadarshi 👋
+# Hi, I'm Vaibhav Priyadarshi ✌️
 
 ### Computer Science Engineering Student | Python | Machine Learning | Generative AI
 
@@ -11,11 +11,17 @@ I'm a Computer Science Engineering student passionate about building practical s
 
 ## 🛠️ Technical Skills
 
-**Languages:** Python, Java, JavaScript  
-**Backend:** FastAPI, REST APIs  
-**Databases:** PostgreSQL, SQL  
-**Machine Learning:** Scikit-learn, Pandas, NumPy  
-**Tools:** Git, GitHub, Postman, Docker
+**Programming Languages:** Python, Java, JavaScript
+
+**Backend Development:** FastAPI, REST APIs, SQLAlchemy
+
+**Databases & Caching:** PostgreSQL, SQL, Redis
+
+**Machine Learning & Data Science:** Scikit-learn, NumPy, Pandas, XGBoost
+
+**Generative AI:** Large Language Models (LLMs), Prompt Engineering, Retrieval-Augmented Generation (RAG), LangChain, Embeddings, Vector Search
+
+**Tools & Platforms:** Git, GitHub, Postman, Docker, MLflow
 
 ## 🚀 Featured Projects
 
