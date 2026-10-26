@@ -47,7 +47,9 @@ An AI-powered application for analyzing policy documents and extracting useful i
 ## 🤝 Connect With Me
 
 - GitHub: [VAIBHAV2785](https://github.com/VAIBHAV2785)
-- LinkedIn: Add your LinkedIn profile URL here
+- LinkedIn: www.linkedin.com/in/vaibhav-priyadarshi
+
+
 
 ---
 
