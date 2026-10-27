@@ -59,6 +59,6 @@ An AI-powered application for analyzing policy documents and extracting useful i
 
 ---
 
-**Learning continuously. Building consistently.**
+**Learning continuously.. Building consistently..**
 
 
