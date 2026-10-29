@@ -1,4 +1,4 @@
-# Hi, I'm Vaibhav Priyadarshi ✌️
+# Hi, I'm Vaibhav Priyadarshiii ✌️
 
 ### Computer Science Engineering Student | Python | Machine Learning | Generative AI
 
